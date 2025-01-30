@@ -15,6 +15,20 @@ The system processes news articles, extracts features, and classifies them as ei
   - **Joblib** 💾
 - **IDE/Tools**: Visual Studio Code 🖥️, Jupyter Notebook 📓
 
+## 🖼️ Detection Screen Before and After
+
+**Project Interface Before Prediction:**  
+![Project Interface](images/screen.png)
+
+**Before Detection:**  
+![Before Detection](images/before.png)
+
+**After Detection - News is Real:**  
+![News is Real](images/real.png)
+
+**After Detection - News is Fake:**  
+![News is Fake](images/fake.png)
+
 ## 📂 Dataset Description 🗂️
 The **Fake News Dataset** contains labeled news articles, with the following columns:
 - **id** 🔢: Unique identifier for the article
@@ -24,7 +38,7 @@ The **Fake News Dataset** contains labeled news articles, with the following col
 - **label** 🏷️: The classification (Fake or Real)
 
 You can download the dataset from the link below:
-- **[Download Dataset]((https://drive.google.com/drive/folders/1wPzbhNSGQo2I3NqJFEK80eFnE26yzMWK?usp=sharing))**  
+- **[Download Dataset](https://drive.google.com/drive/folders/1wPzbhNSGQo2I3NqJFEK80eFnE26yzMWK?usp=sharing)**  
 
 ## 🛠️ Project Workflow 🔄
 
@@ -65,6 +79,3 @@ You can clone this project to your local machine using the link below:
 ---
 
 Feel free to explore, contribute, or modify the project. Happy detecting! 😊
-
-
-"# fake-news-detection" 
